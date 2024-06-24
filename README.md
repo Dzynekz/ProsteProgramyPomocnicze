@@ -24,7 +24,13 @@ ScreenshotApp is a simple Python application that allows users to capture a port
 
 ## Installation
 
-Clone the repository or download the source code.
+You can clone the repostitory or download the source code.
+
+Source code download:
+![image](https://github.com/Dzynekz/ScreenshotApp/assets/128654056/72f149d3-2f0e-40c0-a7b5-26fd3354f358)
+
+
+
 
 ## Using Executable Version
 
