@@ -1,2 +1,4 @@
 *.html linguist-documentation
 *.tex linguist-documentation
+**/*.html linguist-documentation
+**/*.tex linguist-documentation
