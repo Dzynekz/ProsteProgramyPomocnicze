@@ -1,6 +1,6 @@
-# ScreenCaptureApp
+# ScreenshotApp
 
-ScreenCaptureApp is a simple Python application that allows users to capture a portion of their screen and copy it to the clipboard. The application is triggered by a hotkey (Ctrl+Shift+S) and uses the `pyautogui` for capturing the screen.
+ScreenshotApp is a simple Python application that allows users to capture a portion of their screen and copy it to the clipboard. The application is triggered by a hotkey (Ctrl+Shift+S) and uses the `pyautogui` for capturing the screen.
 
 ## Features
 
@@ -38,5 +38,5 @@ An executable (.exe) version of this application is also available for Windows u
    ```
 2. Run the script:
     ```sh
-    python screen_capture_app.py
+    python screenshot_app.py
     ```
