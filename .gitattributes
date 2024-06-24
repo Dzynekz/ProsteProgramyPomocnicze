@@ -1,4 +1,2 @@
-*.html linguist-documentation
-*.tex linguist-documentation
-**/*.html linguist-documentation
-**/*.tex linguist-documentation
+dist/** linguist-documentation
+build/screenshot.app/** linguist-documentation
