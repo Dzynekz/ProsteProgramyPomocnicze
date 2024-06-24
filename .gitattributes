@@ -1,2 +1,13 @@
-dist/** linguist-documentation
-build/screenshot.app/** linguist-documentation
+# Generated files
+build/** linguist-generated
+dist/** linguist-generated
+
+# Documentation
+*.html linguist-documentation
+*.tex linguist-documentation
+README.md linguist-documentation
+#screenshot_app.spec linguist-documentation
+
+# Python
+screenshot_app.py linguist-language=Python
+
